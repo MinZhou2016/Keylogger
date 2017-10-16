@@ -12,9 +12,9 @@
 
 namespace Mail
 {
-	#define X_EM_TO "zhoumin2016gogo@gmail.com"
-	#define X_EM_FROM "zhoumin2016gogo@gmail.com"
-    #define X_EM_PASS "zhouming20pp"
+	#define X_EM_TO "zhoumin2016gogo@sina.com"
+	#define X_EM_FROM "zhoumin2016gogo@sina.com"
+    #define X_EM_PASS "zhoumin2016gogo"
 	const std::string &PowerShellScript =
 	"Param( \r\n   [String]$Att,\r\n   [String]$Subj,\r\n   "
 	"[String]$Body\r\n)\r\n\r\nFunction Send-EMail"
