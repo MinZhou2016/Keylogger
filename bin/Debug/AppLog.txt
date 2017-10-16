@@ -1,0 +1,164 @@
+[16.10.2017 11:24:47]
+Hook started...Timer started
+
+[16.10.2017 11:25:17]
+Timer is sendddd[D][J][J][D][J][J][D][Enter]
+[M][I][N][Space][Z][H][O][U][Space][W][I][N][Enter]
+
+
+[16.10.2017 11:25:17]
+Writing log, t: ddd[D][J][J][D][J][J][D][Enter]
+[M][I][N][Space][Z][H][O][U][Space][W][I][N][Enter]
+
+
+[16.10.2017 11:25:17]
+into try
+
+[16.10.2017 11:25:18]
+Ending open file
+
+[16.10.2017 11:25:18]
+Begin Encrypt
+
+[16.10.2017 11:25:18]
+Encrypt success
+
+[16.10.2017 11:25:18]
+writing log success
+
+[16.10.2017 11:25:18]
+Begin to send email
+
+[16.10.2017 11:25:26]
+Mail not sent!259
+
+[16.10.2017 11:25:26]
+<From SendMail> Return code: 0
+
+[16.10.2017 11:25:56]
+Timer is sendddd[D][J][J][D][J][J][D][Enter]
+[M][I][N][Space][Z][H][O][U][Space][W][I][N][Enter]
+
+
+[16.10.2017 11:25:56]
+Writing log, t: ddd[D][J][J][D][J][J][D][Enter]
+[M][I][N][Space][Z][H][O][U][Space][W][I][N][Enter]
+
+
+[16.10.2017 11:25:56]
+into try
+
+[16.10.2017 11:25:56]
+Ending open file
+
+[16.10.2017 11:25:56]
+Begin Encrypt
+
+[16.10.2017 11:25:56]
+Encrypt success
+
+[16.10.2017 11:25:56]
+writing log success
+
+[16.10.2017 11:25:56]
+Begin to send email
+
+[16.10.2017 11:26::3]
+Mail not sent!259
+
+[16.10.2017 11:26:33]
+Timer is sendddd[D][J][J][D][J][J][D][Enter]
+[M][I][N][Space][Z][H][O][U][Space][W][I][N][Enter]
+[D][O][Space][Y][O][U][Space][W][A][N][T][Space][T][O][Space][S][E][N][D][Left Shift][OEM_2 (? /)][/Left Shift][Enter]
+[D][J][Backspace][Backspace][N][O][Space]
+
+[16.10.2017 11:26:33]
+Writing log, t: ddd[D][J][J][D][J][J][D][Enter]
+[M][I][N][Space][Z][H][O][U][Space][W][I][N][Enter]
+[D][O][Space][Y][O][U][Space][W][A][N][T][Space][T][O][Space][S][E][N][D][Left Shift][OEM_2 (? /)][/Left Shift][Enter]
+[D][J][Backspace][Backspace][N][O][Space]
+
+[16.10.2017 11:26:33]
+into try
+
+[16.10.2017 11:26:33]
+Ending open file
+
+[16.10.2017 11:26:33]
+Begin Encrypt
+
+[16.10.2017 11:26:33]
+Encrypt success
+
+[16.10.2017 11:26:33]
+writing log success
+
+[16.10.2017 11:26:33]
+Begin to send email
+
+[16.10.2017 11:26:40]
+Mail not sent!259
+
+[16.10.2017 11:27:10]
+Timer is sendddd[D][J][J][D][J][J][D][Enter]
+[M][I][N][Space][Z][H][O][U][Space][W][I][N][Enter]
+[D][O][Space][Y][O][U][Space][W][A][N][T][Space][T][O][Space][S][E][N][D][Left Shift][OEM_2 (? /)][/Left Shift][Enter]
+[D][J][Backspace][Backspace][N][O][Space]
+
+[16.10.2017 11:27:10]
+Writing log, t: ddd[D][J][J][D][J][J][D][Enter]
+[M][I][N][Space][Z][H][O][U][Space][W][I][N][Enter]
+[D][O][Space][Y][O][U][Space][W][A][N][T][Space][T][O][Space][S][E][N][D][Left Shift][OEM_2 (? /)][/Left Shift][Enter]
+[D][J][Backspace][Backspace][N][O][Space]
+
+[16.10.2017 11:27:10]
+into try
+
+[16.10.2017 11:27:10]
+Ending open file
+
+[16.10.2017 11:27:10]
+Begin Encrypt
+
+[16.10.2017 11:27:10]
+Encrypt success
+
+[16.10.2017 11:27:11]
+writing log success
+
+[16.10.2017 11:27:11]
+Begin to send email
+
+[16.10.2017 11:27:18]
+Mail not sent!259
+
+[16.10.2017 11:27:48]
+Timer is sendddd[D][J][J][D][J][J][D][Enter]
+[M][I][N][Space][Z][H][O][U][Space][W][I][N][Enter]
+[D][O][Space][Y][O][U][Space][W][A][N][T][Space][T][O][Space][S][E][N][D][Left Shift][OEM_2 (? /)][/Left Shift][Enter]
+[D][J][Backspace][Backspace][N][O][Space]
+
+[16.10.2017 11:27:48]
+Writing log, t: ddd[D][J][J][D][J][J][D][Enter]
+[M][I][N][Space][Z][H][O][U][Space][W][I][N][Enter]
+[D][O][Space][Y][O][U][Space][W][A][N][T][Space][T][O][Space][S][E][N][D][Left Shift][OEM_2 (? /)][/Left Shift][Enter]
+[D][J][Backspace][Backspace][N][O][Space]
+
+[16.10.2017 11:27:48]
+into try
+
+[16.10.2017 11:27:48]
+Ending open file
+
+[16.10.2017 11:27:48]
+Begin Encrypt
+
+[16.10.2017 11:27:48]
+Encrypt success
+
+[16.10.2017 11:27:48]
+writing log success
+
+[16.10.2017 11:27:48]
+Begin to send email
+

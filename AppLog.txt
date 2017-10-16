@@ -1,0 +1,3 @@
+[16.10.2017 09:48:36]
+Hook started...Timer started
+
